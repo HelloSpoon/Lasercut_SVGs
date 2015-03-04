@@ -4,7 +4,7 @@ SVG files for HelloSpoon DIY version.
 <br>If you are building this by yourself go and take a look to the next instructional video:
 <br>[holder]
 <br>
-Or go and download the next PDF file here:
+Or go and download instructional PDF file here:
 <br>[holder]
 <br>
 <br>Enjoy building your HelloSpoon DIY version!
